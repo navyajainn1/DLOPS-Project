@@ -1,0 +1,41 @@
+[2026-04-21 11:09:05,746: INFO: main: Welcome to DLOPS Project logs]
+[2026-04-23 11:02:03,843: INFO: common: YAML file config\config.yaml loaded successfully]
+[2026-04-23 11:02:03,846: INFO: common: YAML file params.yaml loaded successfully]
+[2026-04-23 11:02:03,848: INFO: common: created directory at: artifacts]
+[2026-04-23 11:02:03,849: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-04-23 11:02:04,926: INFO: 4037744573: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 66E4:44E65:5DC294:733FAC:69E9AA4E
+Accept-Ranges: bytes
+Date: Thu, 23 Apr 2026 05:32:04 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del-vibw2260036-DEL
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1776922324.063868,VS0,VE297
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: c4bbb7592511dbc34a2254b439bed35bd9b9f0ec
+Expires: Thu, 23 Apr 2026 05:37:04 GMT
+Source-Age: 0
+
+]
+[2026-04-24 10:49:37,767: INFO: main: >>>>>> Data Ingestion Stage started <<<<<<]
+[2026-04-24 10:49:37,769: INFO: common: YAML file config\config.yaml loaded successfully]
+[2026-04-24 10:49:37,771: INFO: common: YAML file params.yaml loaded successfully]
+[2026-04-24 10:49:37,772: INFO: common: created directory at: artifacts]
+[2026-04-24 10:49:37,772: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-04-24 10:49:37,773: INFO: data_ingestion: File already exists of size: ~ 11345 KB]
+[2026-04-24 10:49:38,689: INFO: main: >>>>>> Data Ingestion Stage completed <<<<<<
+
+x==========x]
