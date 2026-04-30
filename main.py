@@ -1,4 +1,4 @@
-# from src.cnnClassifier import logger
+# from src.cnn_Classifier import logger
 # import logging
 # print(logging.info('Welcome to DLOPS Project logs'))
 
